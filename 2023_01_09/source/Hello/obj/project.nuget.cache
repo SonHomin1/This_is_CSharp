@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oWufvUhdF1LPYyVRy+sT9oJ4u9UyXSJWElsOWsXWrK5u/11f6w5jujyGnQSPlDoFy5bE/v5gD2vBOLpFh6iUNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonho\\Desktop\\C#\\Hello\\Hello.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
