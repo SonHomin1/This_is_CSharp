@@ -1,0 +1,15 @@
+C:\Users\sonho\Desktop\C#\ch03\Object\bin\Debug\net5.0\Object.exe
+C:\Users\sonho\Desktop\C#\ch03\Object\bin\Debug\net5.0\Object.deps.json
+C:\Users\sonho\Desktop\C#\ch03\Object\bin\Debug\net5.0\Object.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch03\Object\bin\Debug\net5.0\Object.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch03\Object\bin\Debug\net5.0\Object.dll
+C:\Users\sonho\Desktop\C#\ch03\Object\bin\Debug\net5.0\ref\Object.dll
+C:\Users\sonho\Desktop\C#\ch03\Object\bin\Debug\net5.0\Object.pdb
+C:\Users\sonho\Desktop\C#\ch03\Object\obj\Debug\net5.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch03\Object\obj\Debug\net5.0\Object.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\Object\obj\Debug\net5.0\Object.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch03\Object\obj\Debug\net5.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\Object\obj\Debug\net5.0\Object.dll
+C:\Users\sonho\Desktop\C#\ch03\Object\obj\Debug\net5.0\ref\Object.dll
+C:\Users\sonho\Desktop\C#\ch03\Object\obj\Debug\net5.0\Object.pdb
+C:\Users\sonho\Desktop\C#\ch03\Object\obj\Debug\net5.0\Object.genruntimeconfig.cache

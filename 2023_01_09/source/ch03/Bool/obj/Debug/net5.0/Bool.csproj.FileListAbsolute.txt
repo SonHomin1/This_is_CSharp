@@ -1,0 +1,16 @@
+C:\Users\sonho\Desktop\C#\ch03\Bool\bin\Debug\net5.0\Bool.exe
+C:\Users\sonho\Desktop\C#\ch03\Bool\bin\Debug\net5.0\Bool.deps.json
+C:\Users\sonho\Desktop\C#\ch03\Bool\bin\Debug\net5.0\Bool.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch03\Bool\bin\Debug\net5.0\Bool.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch03\Bool\bin\Debug\net5.0\Bool.dll
+C:\Users\sonho\Desktop\C#\ch03\Bool\bin\Debug\net5.0\ref\Bool.dll
+C:\Users\sonho\Desktop\C#\ch03\Bool\bin\Debug\net5.0\Bool.pdb
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\Bool.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\Bool.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\Bool.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\Bool.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\Bool.dll
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\ref\Bool.dll
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\Bool.pdb
+C:\Users\sonho\Desktop\C#\ch03\Bool\obj\Debug\net5.0\Bool.genruntimeconfig.cache

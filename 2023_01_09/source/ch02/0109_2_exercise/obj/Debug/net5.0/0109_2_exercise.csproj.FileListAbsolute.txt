@@ -1,0 +1,16 @@
+C:\Users\sonho\Desktop\C#\0109_2_exercise\bin\Debug\net5.0\0109_2_exercise.exe
+C:\Users\sonho\Desktop\C#\0109_2_exercise\bin\Debug\net5.0\0109_2_exercise.deps.json
+C:\Users\sonho\Desktop\C#\0109_2_exercise\bin\Debug\net5.0\0109_2_exercise.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\0109_2_exercise\bin\Debug\net5.0\0109_2_exercise.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\0109_2_exercise\bin\Debug\net5.0\0109_2_exercise.dll
+C:\Users\sonho\Desktop\C#\0109_2_exercise\bin\Debug\net5.0\ref\0109_2_exercise.dll
+C:\Users\sonho\Desktop\C#\0109_2_exercise\bin\Debug\net5.0\0109_2_exercise.pdb
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\0109_2_exercise.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\0109_2_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\0109_2_exercise.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\0109_2_exercise.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\0109_2_exercise.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\0109_2_exercise.dll
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\ref\0109_2_exercise.dll
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\0109_2_exercise.pdb
+C:\Users\sonho\Desktop\C#\0109_2_exercise\obj\Debug\net5.0\0109_2_exercise.genruntimeconfig.cache
