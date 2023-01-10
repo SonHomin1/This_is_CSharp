@@ -1,0 +1,16 @@
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.exe
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.deps.json
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.dll
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\bin\Debug\net5.0\ref\BoxingUnBoxing.dll
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.pdb
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.dll
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\ref\BoxingUnBoxing.dll
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.pdb
+C:\Users\sonho\Desktop\C#\ch03\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.genruntimeconfig.cache
