@@ -1,0 +1,14 @@
+C:\Users\sonho\Desktop\C#\ch03\Enum3\bin\Debug\netcoreapp3.1\Enum3.exe
+C:\Users\sonho\Desktop\C#\ch03\Enum3\bin\Debug\netcoreapp3.1\Enum3.deps.json
+C:\Users\sonho\Desktop\C#\ch03\Enum3\bin\Debug\netcoreapp3.1\Enum3.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch03\Enum3\bin\Debug\netcoreapp3.1\Enum3.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch03\Enum3\bin\Debug\netcoreapp3.1\Enum3.dll
+C:\Users\sonho\Desktop\C#\ch03\Enum3\bin\Debug\netcoreapp3.1\Enum3.pdb
+C:\Users\sonho\Desktop\C#\ch03\Enum3\obj\Debug\netcoreapp3.1\Enum3.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch03\Enum3\obj\Debug\netcoreapp3.1\Enum3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch03\Enum3\obj\Debug\netcoreapp3.1\Enum3.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\Enum3\obj\Debug\netcoreapp3.1\Enum3.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch03\Enum3\obj\Debug\netcoreapp3.1\Enum3.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\Enum3\obj\Debug\netcoreapp3.1\Enum3.dll
+C:\Users\sonho\Desktop\C#\ch03\Enum3\obj\Debug\netcoreapp3.1\Enum3.pdb
+C:\Users\sonho\Desktop\C#\ch03\Enum3\obj\Debug\netcoreapp3.1\Enum3.genruntimeconfig.cache
