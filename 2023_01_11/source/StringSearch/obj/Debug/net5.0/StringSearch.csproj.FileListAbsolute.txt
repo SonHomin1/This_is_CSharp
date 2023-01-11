@@ -1,0 +1,16 @@
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\bin\Debug\net5.0\StringSearch.exe
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\bin\Debug\net5.0\StringSearch.deps.json
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\bin\Debug\net5.0\StringSearch.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\bin\Debug\net5.0\StringSearch.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\bin\Debug\net5.0\StringSearch.dll
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\bin\Debug\net5.0\ref\StringSearch.dll
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\bin\Debug\net5.0\StringSearch.pdb
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\StringSearch.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\StringSearch.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\StringSearch.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\StringSearch.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\StringSearch.dll
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\ref\StringSearch.dll
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\StringSearch.pdb
+C:\Users\sonho\Desktop\C#\ch03\StringSearch\obj\Debug\net5.0\StringSearch.genruntimeconfig.cache

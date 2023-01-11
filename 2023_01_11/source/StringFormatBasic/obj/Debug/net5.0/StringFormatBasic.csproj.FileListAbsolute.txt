@@ -1,0 +1,16 @@
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\bin\Debug\net5.0\StringFormatBasic.exe
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\bin\Debug\net5.0\StringFormatBasic.deps.json
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\bin\Debug\net5.0\StringFormatBasic.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\bin\Debug\net5.0\StringFormatBasic.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\bin\Debug\net5.0\StringFormatBasic.dll
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\bin\Debug\net5.0\ref\StringFormatBasic.dll
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\bin\Debug\net5.0\StringFormatBasic.pdb
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\StringFormatBasic.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\StringFormatBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\StringFormatBasic.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\StringFormatBasic.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\StringFormatBasic.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\StringFormatBasic.dll
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\ref\StringFormatBasic.dll
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\StringFormatBasic.pdb
+C:\Users\sonho\Desktop\C#\ch03\StringFormatBasic\obj\Debug\net5.0\StringFormatBasic.genruntimeconfig.cache

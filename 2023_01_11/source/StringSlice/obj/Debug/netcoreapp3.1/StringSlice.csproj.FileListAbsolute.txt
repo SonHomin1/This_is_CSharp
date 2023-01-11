@@ -1,0 +1,14 @@
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\bin\Debug\netcoreapp3.1\StringSlice.exe
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\bin\Debug\netcoreapp3.1\StringSlice.deps.json
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\bin\Debug\netcoreapp3.1\StringSlice.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\bin\Debug\netcoreapp3.1\StringSlice.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\bin\Debug\netcoreapp3.1\StringSlice.dll
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\bin\Debug\netcoreapp3.1\StringSlice.pdb
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\obj\Debug\netcoreapp3.1\StringSlice.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\obj\Debug\netcoreapp3.1\StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\obj\Debug\netcoreapp3.1\StringSlice.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\obj\Debug\netcoreapp3.1\StringSlice.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\obj\Debug\netcoreapp3.1\StringSlice.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\obj\Debug\netcoreapp3.1\StringSlice.dll
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\obj\Debug\netcoreapp3.1\StringSlice.pdb
+C:\Users\sonho\Desktop\C#\ch03\StringSlice\obj\Debug\netcoreapp3.1\StringSlice.genruntimeconfig.cache
