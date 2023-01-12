@@ -1,0 +1,14 @@
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.exe
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.deps.json
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.dll
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.pdb
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.dll
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.pdb
+C:\Users\sonho\Desktop\C#\ch04\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ktEiG5lglW53x7Dk6p0hNPjqR1MhvacJxzJrGVckrCRMs2ibfpXUGagWNw6+fFzpoIqaYR4EZ8+FAzI4MdFhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonho\\Desktop\\C#\\ch05\\SwitchExp\\SwitchExp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

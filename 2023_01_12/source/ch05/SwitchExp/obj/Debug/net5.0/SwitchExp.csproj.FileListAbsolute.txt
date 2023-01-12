@@ -1,0 +1,16 @@
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\bin\Debug\net5.0\SwitchExp.exe
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\bin\Debug\net5.0\SwitchExp.deps.json
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\bin\Debug\net5.0\SwitchExp.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\bin\Debug\net5.0\SwitchExp.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\bin\Debug\net5.0\SwitchExp.dll
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\bin\Debug\net5.0\ref\SwitchExp.dll
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\bin\Debug\net5.0\SwitchExp.pdb
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\SwitchExp.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\SwitchExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\SwitchExp.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\SwitchExp.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\SwitchExp.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\SwitchExp.dll
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\ref\SwitchExp.dll
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\SwitchExp.pdb
+C:\Users\sonho\Desktop\C#\ch05\SwitchExp\obj\Debug\net5.0\SwitchExp.genruntimeconfig.cache

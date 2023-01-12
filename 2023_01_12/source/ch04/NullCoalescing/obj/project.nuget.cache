@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NbwUWqZb6aDiUEGhCslO8jwZ6ONqqZADXTott2FWGi/FwwW1jL4NIJykCbxzTpPfcTxlfoSGpNlieTSKgeRMzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonho\\Desktop\\C#\\ch04\\NullCoalescing\\NullCoalescing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
