@@ -1,0 +1,15 @@
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\bin\Debug\net5.0\InfiniteFor.exe
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\bin\Debug\net5.0\InfiniteFor.deps.json
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\bin\Debug\net5.0\InfiniteFor.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\bin\Debug\net5.0\InfiniteFor.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\bin\Debug\net5.0\InfiniteFor.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\bin\Debug\net5.0\ref\InfiniteFor.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\bin\Debug\net5.0\InfiniteFor.pdb
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\obj\Debug\net5.0\InfiniteFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\obj\Debug\net5.0\InfiniteFor.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\obj\Debug\net5.0\InfiniteFor.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\obj\Debug\net5.0\InfiniteFor.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\obj\Debug\net5.0\InfiniteFor.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\obj\Debug\net5.0\ref\InfiniteFor.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\obj\Debug\net5.0\InfiniteFor.pdb
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteFor\obj\Debug\net5.0\InfiniteFor.genruntimeconfig.cache

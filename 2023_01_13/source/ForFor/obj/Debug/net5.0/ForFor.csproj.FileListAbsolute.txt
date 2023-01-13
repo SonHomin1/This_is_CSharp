@@ -1,0 +1,15 @@
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\bin\Debug\net5.0\ForFor.exe
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\bin\Debug\net5.0\ForFor.deps.json
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\bin\Debug\net5.0\ForFor.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\bin\Debug\net5.0\ForFor.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\bin\Debug\net5.0\ForFor.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\bin\Debug\net5.0\ref\ForFor.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\bin\Debug\net5.0\ForFor.pdb
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\obj\Debug\net5.0\ForFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\obj\Debug\net5.0\ForFor.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\obj\Debug\net5.0\ForFor.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\obj\Debug\net5.0\ForFor.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\obj\Debug\net5.0\ForFor.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\obj\Debug\net5.0\ref\ForFor.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\obj\Debug\net5.0\ForFor.pdb
+C:\Users\sonho\Desktop\C#\ch04\0113\ForFor\obj\Debug\net5.0\ForFor.genruntimeconfig.cache

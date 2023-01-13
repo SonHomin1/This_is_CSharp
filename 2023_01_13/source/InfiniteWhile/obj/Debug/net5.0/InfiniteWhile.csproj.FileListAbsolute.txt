@@ -1,0 +1,15 @@
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\bin\Debug\net5.0\InfiniteWhile.exe
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\bin\Debug\net5.0\InfiniteWhile.deps.json
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\bin\Debug\net5.0\InfiniteWhile.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\bin\Debug\net5.0\InfiniteWhile.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\bin\Debug\net5.0\InfiniteWhile.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\bin\Debug\net5.0\ref\InfiniteWhile.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\bin\Debug\net5.0\InfiniteWhile.pdb
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\obj\Debug\net5.0\InfiniteWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\obj\Debug\net5.0\InfiniteWhile.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\obj\Debug\net5.0\InfiniteWhile.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\obj\Debug\net5.0\InfiniteWhile.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\obj\Debug\net5.0\InfiniteWhile.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\obj\Debug\net5.0\ref\InfiniteWhile.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\obj\Debug\net5.0\InfiniteWhile.pdb
+C:\Users\sonho\Desktop\C#\ch04\0113\InfiniteWhile\obj\Debug\net5.0\InfiniteWhile.genruntimeconfig.cache

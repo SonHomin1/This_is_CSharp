@@ -1,0 +1,15 @@
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\bin\Debug\net5.0\Break.exe
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\bin\Debug\net5.0\Break.deps.json
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\bin\Debug\net5.0\Break.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\bin\Debug\net5.0\Break.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\bin\Debug\net5.0\Break.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\bin\Debug\net5.0\ref\Break.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\bin\Debug\net5.0\Break.pdb
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\obj\Debug\net5.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\obj\Debug\net5.0\Break.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\obj\Debug\net5.0\Break.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\obj\Debug\net5.0\Break.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\obj\Debug\net5.0\Break.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\obj\Debug\net5.0\ref\Break.dll
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\obj\Debug\net5.0\Break.pdb
+C:\Users\sonho\Desktop\C#\ch04\0113\Break\obj\Debug\net5.0\Break.genruntimeconfig.cache
