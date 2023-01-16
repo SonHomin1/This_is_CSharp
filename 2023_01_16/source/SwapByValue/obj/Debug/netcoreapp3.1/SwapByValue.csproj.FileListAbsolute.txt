@@ -1,0 +1,13 @@
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\bin\Debug\netcoreapp3.1\SwapByValue.exe
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\bin\Debug\netcoreapp3.1\SwapByValue.deps.json
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\bin\Debug\netcoreapp3.1\SwapByValue.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\bin\Debug\netcoreapp3.1\SwapByValue.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\bin\Debug\netcoreapp3.1\SwapByValue.dll
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\bin\Debug\netcoreapp3.1\SwapByValue.pdb
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\obj\Debug\netcoreapp3.1\SwapByValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\obj\Debug\netcoreapp3.1\SwapByValue.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\obj\Debug\netcoreapp3.1\SwapByValue.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\obj\Debug\netcoreapp3.1\SwapByValue.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\obj\Debug\netcoreapp3.1\SwapByValue.dll
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\obj\Debug\netcoreapp3.1\SwapByValue.pdb
+C:\Users\sonho\Desktop\C#\ch06\SwapByValue\obj\Debug\netcoreapp3.1\SwapByValue.genruntimeconfig.cache

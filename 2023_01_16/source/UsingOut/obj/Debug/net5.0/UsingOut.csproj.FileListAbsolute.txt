@@ -1,0 +1,16 @@
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\bin\Debug\net5.0\UsingOut.exe
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\bin\Debug\net5.0\UsingOut.deps.json
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\bin\Debug\net5.0\UsingOut.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\bin\Debug\net5.0\UsingOut.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\bin\Debug\net5.0\UsingOut.dll
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\bin\Debug\net5.0\ref\UsingOut.dll
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\bin\Debug\net5.0\UsingOut.pdb
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\UsingOut.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\UsingOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\UsingOut.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\UsingOut.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\UsingOut.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\UsingOut.dll
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\ref\UsingOut.dll
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\UsingOut.pdb
+C:\Users\sonho\Desktop\C#\ch06\UsingOut\obj\Debug\net5.0\UsingOut.genruntimeconfig.cache

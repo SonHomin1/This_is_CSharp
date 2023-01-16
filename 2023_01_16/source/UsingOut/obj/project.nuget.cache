@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sd8oivvH8MrWOL29cVDe0xaq0YJo8BdYYhJxivpZxkJphUm2Y2PV+aYMGKpa/SNOEDyLukoUeoRrePsPGs1d6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonho\\Desktop\\C#\\ch06\\UsingOut\\UsingOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
