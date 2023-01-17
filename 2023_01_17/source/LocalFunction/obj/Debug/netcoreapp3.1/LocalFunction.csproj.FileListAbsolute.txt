@@ -1,0 +1,13 @@
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\bin\Debug\netcoreapp3.1\LocalFunction.exe
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\bin\Debug\netcoreapp3.1\LocalFunction.deps.json
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\bin\Debug\netcoreapp3.1\LocalFunction.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\bin\Debug\netcoreapp3.1\LocalFunction.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\bin\Debug\netcoreapp3.1\LocalFunction.dll
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\bin\Debug\netcoreapp3.1\LocalFunction.pdb
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\obj\Debug\netcoreapp3.1\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\obj\Debug\netcoreapp3.1\LocalFunction.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\obj\Debug\netcoreapp3.1\LocalFunction.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\obj\Debug\netcoreapp3.1\LocalFunction.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\obj\Debug\netcoreapp3.1\LocalFunction.dll
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\obj\Debug\netcoreapp3.1\LocalFunction.pdb
+C:\Users\sonho\Desktop\C#\ch06\LocalFunction\obj\Debug\netcoreapp3.1\LocalFunction.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\bin\Debug\netcoreapp3.1\UsingParams.exe
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\bin\Debug\netcoreapp3.1\UsingParams.deps.json
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\bin\Debug\netcoreapp3.1\UsingParams.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\bin\Debug\netcoreapp3.1\UsingParams.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\bin\Debug\netcoreapp3.1\UsingParams.dll
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\bin\Debug\netcoreapp3.1\UsingParams.pdb
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\obj\Debug\netcoreapp3.1\UsingParams.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\obj\Debug\netcoreapp3.1\UsingParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\obj\Debug\netcoreapp3.1\UsingParams.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\obj\Debug\netcoreapp3.1\UsingParams.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\obj\Debug\netcoreapp3.1\UsingParams.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\obj\Debug\netcoreapp3.1\UsingParams.dll
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\obj\Debug\netcoreapp3.1\UsingParams.pdb
+C:\Users\sonho\Desktop\C#\ch06\UsingParams\obj\Debug\netcoreapp3.1\UsingParams.genruntimeconfig.cache
