@@ -1,0 +1,16 @@
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\bin\Debug\net5.0\BasicClass.exe
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\bin\Debug\net5.0\BasicClass.deps.json
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\bin\Debug\net5.0\BasicClass.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\bin\Debug\net5.0\BasicClass.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\bin\Debug\net5.0\BasicClass.dll
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\bin\Debug\net5.0\ref\BasicClass.dll
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\bin\Debug\net5.0\BasicClass.pdb
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\BasicClass.csproj.AssemblyReference.cache
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\BasicClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\BasicClass.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\BasicClass.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\BasicClass.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\BasicClass.dll
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\ref\BasicClass.dll
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\BasicClass.pdb
+C:\Users\sonho\Desktop\C#\ch07\BasicClass\obj\Debug\net5.0\BasicClass.genruntimeconfig.cache

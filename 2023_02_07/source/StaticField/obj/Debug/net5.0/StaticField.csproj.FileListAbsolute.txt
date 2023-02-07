@@ -1,0 +1,15 @@
+C:\Users\sonho\Desktop\C#\ch07\StaticField\bin\Debug\net5.0\StaticField.exe
+C:\Users\sonho\Desktop\C#\ch07\StaticField\bin\Debug\net5.0\StaticField.deps.json
+C:\Users\sonho\Desktop\C#\ch07\StaticField\bin\Debug\net5.0\StaticField.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch07\StaticField\bin\Debug\net5.0\StaticField.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch07\StaticField\bin\Debug\net5.0\StaticField.dll
+C:\Users\sonho\Desktop\C#\ch07\StaticField\bin\Debug\net5.0\ref\StaticField.dll
+C:\Users\sonho\Desktop\C#\ch07\StaticField\bin\Debug\net5.0\StaticField.pdb
+C:\Users\sonho\Desktop\C#\ch07\StaticField\obj\Debug\net5.0\StaticField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch07\StaticField\obj\Debug\net5.0\StaticField.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\StaticField\obj\Debug\net5.0\StaticField.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch07\StaticField\obj\Debug\net5.0\StaticField.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\StaticField\obj\Debug\net5.0\StaticField.dll
+C:\Users\sonho\Desktop\C#\ch07\StaticField\obj\Debug\net5.0\ref\StaticField.dll
+C:\Users\sonho\Desktop\C#\ch07\StaticField\obj\Debug\net5.0\StaticField.pdb
+C:\Users\sonho\Desktop\C#\ch07\StaticField\obj\Debug\net5.0\StaticField.genruntimeconfig.cache
