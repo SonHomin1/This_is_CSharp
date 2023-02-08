@@ -1,0 +1,15 @@
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\bin\Debug\net5.0\AccessModifier.exe
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\bin\Debug\net5.0\AccessModifier.deps.json
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\bin\Debug\net5.0\AccessModifier.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\bin\Debug\net5.0\AccessModifier.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\bin\Debug\net5.0\AccessModifier.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\bin\Debug\net5.0\ref\AccessModifier.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\bin\Debug\net5.0\AccessModifier.pdb
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\obj\Debug\net5.0\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\obj\Debug\net5.0\AccessModifier.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\obj\Debug\net5.0\AccessModifier.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\obj\Debug\net5.0\AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\obj\Debug\net5.0\AccessModifier.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\obj\Debug\net5.0\ref\AccessModifier.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\obj\Debug\net5.0\AccessModifier.pdb
+C:\Users\sonho\Desktop\C#\ch07\0208\AccessModifier\obj\Debug\net5.0\AccessModifier.genruntimeconfig.cache

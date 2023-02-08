@@ -1,0 +1,13 @@
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\bin\Debug\netcoreapp3.1\ThisConstructor.exe
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\bin\Debug\netcoreapp3.1\ThisConstructor.deps.json
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\bin\Debug\netcoreapp3.1\ThisConstructor.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\bin\Debug\netcoreapp3.1\ThisConstructor.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\bin\Debug\netcoreapp3.1\ThisConstructor.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\bin\Debug\netcoreapp3.1\ThisConstructor.pdb
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\obj\Debug\netcoreapp3.1\ThisConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\obj\Debug\netcoreapp3.1\ThisConstructor.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\obj\Debug\netcoreapp3.1\ThisConstructor.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\obj\Debug\netcoreapp3.1\ThisConstructor.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\obj\Debug\netcoreapp3.1\ThisConstructor.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\obj\Debug\netcoreapp3.1\ThisConstructor.pdb
+C:\Users\sonho\Desktop\C#\ch07\0208\ThisConstructor\obj\Debug\netcoreapp3.1\ThisConstructor.genruntimeconfig.cache

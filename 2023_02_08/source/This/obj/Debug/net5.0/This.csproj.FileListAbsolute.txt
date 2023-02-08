@@ -1,0 +1,15 @@
+C:\Users\sonho\Desktop\C#\ch07\0208\This\bin\Debug\net5.0\This.exe
+C:\Users\sonho\Desktop\C#\ch07\0208\This\bin\Debug\net5.0\This.deps.json
+C:\Users\sonho\Desktop\C#\ch07\0208\This\bin\Debug\net5.0\This.runtimeconfig.json
+C:\Users\sonho\Desktop\C#\ch07\0208\This\bin\Debug\net5.0\This.runtimeconfig.dev.json
+C:\Users\sonho\Desktop\C#\ch07\0208\This\bin\Debug\net5.0\This.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\This\bin\Debug\net5.0\ref\This.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\This\bin\Debug\net5.0\This.pdb
+C:\Users\sonho\Desktop\C#\ch07\0208\This\obj\Debug\net5.0\This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonho\Desktop\C#\ch07\0208\This\obj\Debug\net5.0\This.AssemblyInfoInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\0208\This\obj\Debug\net5.0\This.AssemblyInfo.cs
+C:\Users\sonho\Desktop\C#\ch07\0208\This\obj\Debug\net5.0\This.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\C#\ch07\0208\This\obj\Debug\net5.0\This.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\This\obj\Debug\net5.0\ref\This.dll
+C:\Users\sonho\Desktop\C#\ch07\0208\This\obj\Debug\net5.0\This.pdb
+C:\Users\sonho\Desktop\C#\ch07\0208\This\obj\Debug\net5.0\This.genruntimeconfig.cache
